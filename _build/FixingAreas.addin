@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>FixingAreas\FixingAreas.dll</Assembly>
+		<ClientId>d723aa0c-adad-43bb-ad9c-6c478fd1fd90</ClientId>
+		<FullClassName>Plugin_fixing_areas.Main</FullClassName>
+		<Text>FixingAreas</Text>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Name>ARO Group</Name>
+		<VendorId>ARO</VendorId>
+		<VendorDescription>ARO Group</VendorDescription>
+	</AddIn>
+</RevitAddIns>
